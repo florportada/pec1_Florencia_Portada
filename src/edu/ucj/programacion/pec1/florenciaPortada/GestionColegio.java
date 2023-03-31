@@ -1,7 +1,7 @@
 package edu.ucj.programacion.pec1.florenciaPortada;
 
 import java.util.Scanner;
-
+// https://github.com/florportada/pec1_Florencia_Portada.git
 public class GestionColegio {
 	public static void main(String[] args) {
 		// Creo el scanner para poder introducir datos
